@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8505a8c2-4b98-4e44-a746-8a39d8eb7aef" name="Default" comment="" />
+    <list default="true" id="8505a8c2-4b98-4e44-a746-8a39d8eb7aef" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +29,12 @@
           <entry key="project.closed" value="21" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -187,6 +190,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -250,16 +256,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,12 +275,68 @@
             </path>
             <path>
               <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeCPlus" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeCPlus" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,14 +415,16 @@
       <workItem from="1535698883778" duration="3351000" />
       <workItem from="1536292557705" duration="18000" />
       <workItem from="1536292603592" duration="202000" />
+      <workItem from="1537263061349" duration="369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87327000" />
+    <option name="totallyTimeSpent" value="87696000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -381,7 +445,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.18498169" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.18681319" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
