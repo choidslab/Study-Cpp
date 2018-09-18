@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dooseop/CLionProjects/PracticeCPlus/chapter15/DiffHandlingPosition.cpp
+iostream
+-
+cstring
+-
+cmath
+-
+
